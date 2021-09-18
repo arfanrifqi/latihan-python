@@ -1,0 +1,23 @@
+# menghitung sisa hasil bagi dan floor division dari soal-soal berikut ini:
+
+#1. 9 / 5
+#2. 29 / 4
+#3. 25 / 5
+#4. 8 / 6
+
+
+# soal 1
+print(9%5) #modulus
+print(9//4) #floor
+
+#soal 2
+print(29%4)
+print(29/4)
+
+#soal 3
+print(25%5)
+print(25//5)
+
+#soal 4
+print(8%6)
+print(8//6)
